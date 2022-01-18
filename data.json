@@ -1,0 +1,266 @@
+[{
+
+        "abidjan":{
+            "cocody":[
+               {
+                "quartier": "saint jean",
+                "categorie": "Boutique",
+                "nom": "mael mood"
+               },
+               {
+            "quartier": "saint jean",
+            "categorie": "garbadrome",
+            "nom": "chez ahmed"
+            },
+             {
+                "quartier": "saint jean",
+                "categorie": "garbadrome",
+                "nom": "chez ahmed"
+            },
+            {
+                "quartier": "blokos",
+                "categorie": "Magasin vêtement",
+                "nom": "Audrey fashion"
+            }
+
+            ],
+            "abobo":[
+               {
+                "quartier": "dokoui",
+                "categorie": "Boutique",
+                "nom": "mael mood"
+               },
+               {
+            "quartier": "banco",
+            "categorie": "garbadrome",
+            "nom": "chez ahmed"
+            },
+             {
+                "quartier": "saint joseph",
+                "categorie": "garbadrome",
+                "nom": "chez ahmed"
+            },
+            {
+                "quartier": "anador",
+                "categorie": "Magasin vêtement",
+                "nom": "Audrey fashion"
+            }
+
+            ],
+            "yopougon":[
+               {
+                "quartier": "siporex",
+                "categorie": "Boutique",
+                "nom": "mael mood"
+               },
+
+            {
+                "quartier": "maroc",
+                "categorie": "Magasin vêtement",
+                "nom": "Audrey fashion"
+            }
+
+            ],
+            "koumassi":[
+               {
+                    
+                "quartier": "dokzone industrielleoui",
+                "categorie": "Boutique",
+                "nom": "mael mood"
+               },
+               {
+            "quartier": "SICOGI",
+            "categorie": "garbadrome",
+            "nom": "chez ahmed"
+            },
+             {
+                "quartier": "Prodomo",
+                "categorie": "garbadrome",
+                "nom": "chez ahmed"
+            },
+            {
+                "quartier": "Sopim",
+                "categorie": "Magasin vêtement",
+                "nom": "Audrey fashion"
+            },
+            {
+                "quartier":"SOGEFIHA",
+                "cartegorie":"Magasin vêtement",
+                "nom": "Baby fashion"
+            }
+
+            ],
+            "port-Bouët":[
+               {
+                "quartier": "Adjoufou",
+                "categorie": "super marché",
+                "nom": "king cash"
+               },
+               {
+            "quartier": "Derrière Wharf",
+            "categorie": "garbadrome",
+            "nom": "chez ismo"
+            },
+             {
+                "quartier": "villages d'Abouabou",
+                "categorie": "pharmacie",
+                "nom": "saint michel"
+            }
+
+            ],
+            "adjamé":[
+               {
+                "quartier": "dokoui",
+                "categorie": "Boutique",
+                "nom": "mael mood"
+               },
+               {
+            "quartier": "banco",
+            "categorie": "garbadrome",
+            "nom": "chez ahmed"
+            },
+             {
+                "quartier": "saint joseph",
+                "categorie": "garbadrome",
+                "nom": "chez ahmed"
+            },
+            {
+                "quartier": "anador",
+                "categorie": "Magasin vêtement",
+                "nom": "Audrey fashion"
+            }
+
+            ],
+            "attécoubé":[
+               {
+                "quartier": "siporex",
+                "categorie": "Boutique",
+                "nom": "mael mood"
+               },
+
+            {
+                "quartier": "maroc",
+                "categorie": "Magasin vêtement",
+                "nom": "Audrey fashion"
+            }
+
+            ],
+            "marcory":[
+               {
+                    
+                "quartier": "dokzone industrielleoui",
+                "categorie": "Boutique",
+                "nom": "mael mood"
+               },
+               {
+            "quartier": "SICOGI",
+            "categorie": "garbadrome",
+            "nom": "chez ahmed"
+            },
+             {
+                "quartier": "Prodomo",
+                "categorie": "garbadrome",
+                "nom": "chez ahmed"
+            },
+            {
+                "quartier": "Sopim",
+                "categorie": "Magasin vêtement",
+                "nom": "Audrey fashion"
+            },
+            {
+                "quartier":"SOGEFIHA",
+                "cartegorie":"Magasin vêtement",
+                "nom": "Baby fashion"
+            }
+
+            ]
+    
+    },
+     "soubre":{
+         
+            "soubre":[
+               {
+                "quartier": "chateau",
+                "categorie": "Boutique",
+                "nom": "mael mood"
+               },
+               {
+            "quartier": "gbakalekpa",
+            "categorie": "garbadrome",
+            "nom": "chez ahmed"
+            },
+             {
+                "quartier": "camp manoir",
+                "categorie": "garbadrome",
+                "nom": "chez ahmed"
+            },
+            {
+                "quartier": "dobois",
+                "categorie": "Magasin vêtement",
+                "nom": "Audrey fashion"
+            }
+
+            ]
+            
+        
+    },
+    "meagui":{
+         
+            "meagui":[
+               {
+                "quartier": "chateau",
+                "categorie": "Boutique",
+                "nom": "mael mood"
+               },
+               {
+            "quartier": "gbakalekpa",
+            "categorie": "garbadrome",
+            "nom": "chez ahmed"
+            },
+             {
+                "quartier": "camp manoir",
+                "categorie": "garbadrome",
+                "nom": "chez ahmed"
+            },
+            {
+                "quartier": "dobois",
+                "categorie": "Magasin vêtement",
+                "nom": "Audrey fashion"
+            }
+
+            ]
+            
+        
+    },
+    "divo":{
+         
+            "divo":[
+               {
+                "quartier": "chateau",
+                "categorie": "Boutique",
+                "nom": "mael mood"
+               },
+               {
+            "quartier": "gbakalekpa",
+            "categorie": "garbadrome",
+            "nom": "chez ahmed"
+            },
+             {
+                "quartier": "camp manoir",
+                "categorie": "garbadrome",
+                "nom": "chez ahmed"
+            },
+            {
+                "quartier": "dobois",
+                "categorie": "Magasin vêtement",
+                "nom": "Audrey fashion"
+            }
+
+            ]
+            
+        
+    }
+
+
+}
+]
